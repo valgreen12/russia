@@ -1,4 +1,16 @@
- body{
+.fundo{
     background-color: black;
+}
+body{
     color: white;
- }
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
